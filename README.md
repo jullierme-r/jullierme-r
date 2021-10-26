@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jullierme-r
 - 👀 I’m interested in Front-End
-- 🌱 I’m currently learning CSS/JavaScript
+- 🌱 I’m currently learning CSS/JavaScript/React
 
 <!---
 jullierme-r/jullierme-r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
